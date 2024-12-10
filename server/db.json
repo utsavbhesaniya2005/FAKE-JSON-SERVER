@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "pname": "cbfhjskfl",
+      "price": 2560,
+      "pcategory": "fdmbhjk"
+    },
+    {
+      "id": "2",
+      "pname": "fskfl",
+      "price": 1560,
+      "pcategory": "mndsf"
+    },
+    {
+      "id": "3",
+      "pname": "qlspk",
+      "price": 2000,
+      "pcategory": "dnkf"
+    },
+    {
+      "id": "4",
+      "pname": "Cream Cake",
+      "price": 500,
+      "pcategory": "Cakes"
+    },
+    {
+      "id": "5",
+      "pname": "Cream Puff",
+      "price": 1000,
+      "pcategory": "Cup cake"
+    },
+    {
+      "id": "7",
+      "pname": "Cream Cup Cake",
+      "price": 1500,
+      "pcategory": "Cup Cake"
+    },
+    {
+      "id": 6,
+      "pname": "Mango Cake",
+      "price": 1250,
+      "pcategory": "Cakes"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "abc@gmail.com",
+      "pass": "abc@123"
+    },
+    {
+      "id": "2",
+      "email": "pqr@gmail.com",
+      "pass": "pqr@123"
+    },
+    {
+      "id": "3",
+      "email": "xyz@gmail.com",
+      "pass": "xyz@123"
+    },
+    {
+      "id": "4",
+      "email": "op@gmail.com",
+      "pass": "op@123"
+    },
+    {
+      "id": "5",
+      "email": "hello@gmail.com",
+      "pass": "hello@123"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "pass": "Admin@123456"
+    }
+  ]
+}
